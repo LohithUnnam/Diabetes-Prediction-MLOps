@@ -81,7 +81,7 @@ Prediction: The selected model is used to predict diabetes risk based on the pro
 /: A simple welcome endpoint, providing a friendly greeting to users.
 
 This FastAPI deployment allows easy integration with other systems and provides a user-friendly interface for conducting diabetes risk assessments. Users can interact with our model effortlessly, making informed healthcare decisions based on our predictions.
-![FastAPI Interface](assets/fastapi_img.png)
+![FastAPI Interface](https://github.com/LohithUnnam/Diabetes-Prediction-MLOps/blob/main/assets/fastapi_img.png)
 ## Model Monitoring with Streamlit and Evidently
 In our project, we've developed a Streamlit application that incorporates Evidently for monitoring the performance of our diabetes prediction model. This interactive application empowers healthcare professionals and individuals to gain insights into the model's behavior, assess its accuracy, and make informed decisions.
 
@@ -115,6 +115,6 @@ Users can interact with the report to gain insights into the model's strengths a
 
 This Streamlit application, combined with Evidently's monitoring capabilities, enhances the transparency and accountability of our diabetes prediction model. Users can effectively assess the model's accuracy and reliability, supporting proactive healthcare and well-being.
 
-![This is how our streamlit application will look like](assets/stream_img.png)
+![This is how our streamlit application will look like](https://github.com/LohithUnnam/Diabetes-Prediction-MLOps/blob/main/assets/stream_img.png)
 
 This comprehensive MLOps project focuses on Diabetes Prediction and utilizes a range of tools, including Prefect, MLflow, FastAPI, and Streamlit.
